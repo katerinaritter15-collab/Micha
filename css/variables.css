@@ -1,4 +1,7 @@
 :root{
     --bg-dark:#000000;
     --text-light:#FFFFFF;
+    --text-dark:#000000;
+    --card-bg:#F9FAF5;
+    --text-gray:#535351;
 }
